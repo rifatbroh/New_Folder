@@ -1,6 +1,7 @@
 'use client';
 
 import { link } from 'framer-motion/client';
+import img1 from '../assets/joha.png';
 import React from 'react';
 const styles = `
   @keyframes fade-in-up {
@@ -29,7 +30,7 @@ const teamMembers = [
   {
     name: 'Khaled Bin Joha',
     role: 'Project Lead',
-    imageUrl: 'https://i.postimg.cc/W1rCvYnT/nazmul-hossain.jpg',
+    imageUrl: img1,
     githubUrl: 'https://github.com/joha546',
     linkedinUrl: 'https://www.linkedin.com/in/mdkhaledbinjoha/',
     facebookUrl: '#',

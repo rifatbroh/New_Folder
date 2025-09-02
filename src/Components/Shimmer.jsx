@@ -30,7 +30,7 @@ export default function ShimmerButton() {
           animation: 'shimmer-spin 2.5s linear infinite'
         }} />
         <span className="relative z-10 inline-flex font-semibold cursor-pointer items-center justify-center px-8 py-3 text-gray-900 dark:text-white bg-white dark:bg-gray-900 rounded-full group-hover:bg-gray-100 dark:group-hover:bg-gray-800 transition-colors duration-300">
-          Deal With ME ?
+          Deal With US ?
         </span>
       </button>
     </div>
