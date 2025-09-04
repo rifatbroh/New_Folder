@@ -2,6 +2,7 @@
 
 import { link } from 'framer-motion/client';
 import img1 from '../assets/joha.png';
+import img2 from '../assets/moneem.png'
 import React from 'react';
 const styles = `
   @keyframes fade-in-up {
@@ -40,7 +41,7 @@ const teamMembers = [
   {
     name: 'Abdullah All Moneem',
     role: 'Software Engineer',
-    imageUrl: 'https://i.pinimg.com/736x/8c/6d/db/8c6ddb5fe6600fcc4b183cb2ee228eb7.jpg',
+    imageUrl: img2,
     githubUrl: 'https://github.com/Moneemabdullah',
     linkedinUrl: 'https://www.linkedin.com/in/moneem-all-abdullah-4b07a9288/',
     facebookUrl: '#',

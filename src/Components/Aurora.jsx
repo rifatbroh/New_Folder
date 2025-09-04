@@ -69,11 +69,11 @@ export default function AuroraView() {
             Build, Debug & Win
           </AuroraText> {""}
         </h1>
+        
 
         <p className="mt-6 text-lg md:text-xl text-gray-300 text-center max-w-2xl relative z-10">
           A developer’s journey to create magic with code ✨
         </p>
-
         {/* Call-to-action button */}
         <div className="mt-8 relative z-10">
           <ShimmerButton />
